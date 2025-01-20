@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning cloud computing and D.S.A
 - 🌱 I’m currently learning D.S.A in C programming languag, python programming language, Digital Electronics, Computer Organization and Architechture
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me : Mail Id: princekakoria6@gmail.com Mob No.:9368022563
+- 📫 How to reach me : Mail Id: princekakoria6@gmail.com .
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: 
 
